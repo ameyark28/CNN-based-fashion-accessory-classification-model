@@ -13,9 +13,10 @@ Implemented Convolution neural network with three Conv2D and three MaxPooling2D 
 
 **Results** for final epoch: 
 
-
-| Loss             | 0.2236  |
-| Accuracy         | 0.9157  |
-| Validation Loss  | 0.2443  |
-| Validation Loss  | 0.9126  |
+| First Header  | Secondn |
+| ------------- | ------- |
+| Loss          | 0.2236  |
+| Accuracy      | 0.9157  |
+| Validation Los| 0.2443  |
+| Validation Acc| 0.9126  |
 
