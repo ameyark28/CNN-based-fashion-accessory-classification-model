@@ -16,4 +16,5 @@ Implemented Convolution neural network with three Conv2D and three MaxPooling2D 
 | Accuracy           | 0.9157  |
 | Validation Loss    | 0.2443  |
 | Validation Accuracy| 0.9126  |
+| :----------------  | :------ |
 
